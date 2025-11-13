@@ -72,3 +72,9 @@ This project uses real-world customer data to:
 ---
 
 ## 📦 Files and Structure
+
+GitHub sometimes cannot render large Jupyter Notebook files.
+
+If the notebook does not load, please view the full rendered notebook here:
+
+🔗 https://nbviewer.org/github/NIHARIKHASLAKSHMI/Customer_Churn_Prediction/blob/main/customer_churn_prediction.ipynb
